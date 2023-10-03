@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Hunter
+Box trap utilities for the Hunter skill.
